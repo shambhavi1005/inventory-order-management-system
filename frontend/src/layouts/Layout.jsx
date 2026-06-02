@@ -1,0 +1,1 @@
+import Sidebar from '../components/Sidebar'; export default function({children}){return <div className='row g-0'><div className='col-md-2'><Sidebar/></div><div className='col-md-10 p-4'>{children}</div></div>}

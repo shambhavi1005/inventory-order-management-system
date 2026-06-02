@@ -1,0 +1,1 @@
+export default function(){return <div><h2>Bulk Price Update</h2></div>}

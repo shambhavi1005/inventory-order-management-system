@@ -1,0 +1,1 @@
+export default function(){return <div><h2>Categories CRUD</h2></div>}

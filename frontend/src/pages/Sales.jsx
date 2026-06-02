@@ -1,0 +1,1 @@
+export default function(){return <div><h2>Sales CRUD</h2></div>}

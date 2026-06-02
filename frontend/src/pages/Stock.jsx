@@ -1,0 +1,1 @@
+export default function(){return <div><h2>Set Stock / Add Stock</h2></div>}

@@ -1,0 +1,1 @@
+export default function(){return <div><h2>Products CRUD</h2><p>Add/Edit/Delete Products</p></div>}
